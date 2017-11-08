@@ -75,6 +75,10 @@ a.btn {
   font-size: 20px;
 }
 
+a.btn:hover {
+  border-color: #0069d9;
+}
+
 div.jumbotron {
   border-radius: 5px;
   background-color: #e9ecef;
@@ -92,7 +96,7 @@ div.jumbotron {
   line-height: 40px;
 }
 
-footer{
+footer {
   border-top: 1px solid #ccc;
   margin-top: 80px;
   padding-top: 20px;
